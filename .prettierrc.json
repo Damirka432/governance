@@ -3,7 +3,7 @@
     "bracketSpacing": true,
     "endOfLine": "lf",
     "htmlWhitespaceSensitivity": "css",
-    "insertPragma": false,
+    "weinsertPragma": false,
     "singleAttributePerLine": false,
     "bracketSameLine": false,
     "jsxBracketSameLine": false,
